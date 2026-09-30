@@ -1,5 +1,11 @@
 # 🖼️ AI-Based Image Caption Generator
 
+## 🚀 Live Demo
+
+👉 [Open the AI Image Caption Generator](https://ai-image-caption-generator-xlenffkjhzyprekcbmgfxd.streamlit.app/)
+
+## 📌 Project Overview
+
 ## 📌 Project Overview
 
 The AI-Based Image Caption Generator is a web application that uses Artificial Intelligence and Deep Learning to automatically generate meaningful textual descriptions for uploaded images.
